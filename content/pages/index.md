@@ -30,7 +30,7 @@ sections:
           - pb-16
           - pr-16
   - type: FeaturedItemsSection
-    subtitle: FREE CRYPTO TOOLS
+    subtitle: FREE CRYPTO TOOLS - COMING SOON!
     items:
       - type: FeaturedItem
         title: CRYPTO TAX CALCULATOR
