@@ -108,7 +108,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/pexels-jakubzerdzicki-31220975.jpg
           altText: Placeholder text
           styles:
             self:
