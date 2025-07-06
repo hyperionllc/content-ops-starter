@@ -39,7 +39,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/pexels-rdne-8369767.jpg
           altText: Placeholder text
           styles:
             self:
