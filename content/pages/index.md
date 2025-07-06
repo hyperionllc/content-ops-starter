@@ -83,7 +83,7 @@ sections:
       - type: FeaturedItem
         title: NFT RARITY CHECKER
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: ''
         image:
           type: ImageBlock
