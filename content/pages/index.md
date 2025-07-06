@@ -30,7 +30,7 @@ sections:
           - pb-16
           - pr-16
   - type: FeaturedItemsSection
-    subtitle: Subtitle goes here
+    subtitle: FREE CRYPTO TOOLS
     items:
       - type: FeaturedItem
         title: 500k
