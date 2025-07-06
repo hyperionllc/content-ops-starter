@@ -6,16 +6,7 @@
     },
     "text": "A description of your brand",
     "socialLinks": [],
-    "legalLinks": [
-        {
-            "label": "Terms",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        }
-    ],
+    "legalLinks": [],
     "copyrightText": "Copyright 2025 Hyperion LLC\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
