@@ -30,13 +30,6 @@ sections:
           - pb-16
           - pr-16
   - type: FeaturedItemsSection
-    title:
-      text: Key Benefits
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
