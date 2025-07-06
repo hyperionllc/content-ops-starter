@@ -85,7 +85,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/pexels-alecdoua-32345029.jpg
           altText: Placeholder text
           styles:
             self:
