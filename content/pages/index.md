@@ -119,13 +119,6 @@ sections:
         style: primary
         elementId: ''
         type: Button
-    badge:
-      label: Free Crypto tools
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
