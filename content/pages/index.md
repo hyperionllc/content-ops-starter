@@ -147,16 +147,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col-reverse
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+    actions: []
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
