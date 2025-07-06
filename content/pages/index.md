@@ -62,7 +62,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/pexels-nanadua11-4581613.jpg
           altText: Placeholder text
           styles:
             self:
