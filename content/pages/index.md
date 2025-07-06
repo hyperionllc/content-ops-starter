@@ -106,7 +106,7 @@ sections:
             flexDirection: col-reverse
       - type: FeaturedItem
         title: DeFi YIELD CALCULATOR
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
