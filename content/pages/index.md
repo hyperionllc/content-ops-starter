@@ -127,7 +127,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Free Crypto tools
       color: text-primary
       styles:
         self:
