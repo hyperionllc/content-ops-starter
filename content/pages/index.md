@@ -111,7 +111,7 @@ sections:
             borderRadius: x-large
             flexDirection: col-reverse
       - type: FeaturedItem
-        title: GAS FREE ESTIMATOR
+        title: GAS FEE ESTIMATOR
         tagline: ''
         subtitle: ''
         text: ''
@@ -122,7 +122,11 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Link
+            label: Launch Tool
+            url: /gas-fee-estimator
+            style: primary
         colors: bg-light-fg-dark
         styles:
           self:
