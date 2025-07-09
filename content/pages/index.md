@@ -29,33 +29,33 @@ sections:
   - type: FeaturedItemsSection
     subtitle: FREE CRYPTO TOOLS - COMING SOON!
     items:
-      - type: FeaturedItem
-        title: CRYPTO CURRENCY CONVERTER
-        tagline: ''
-        subtitle: ''
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/pexels-rdne-8369767.jpg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-      - actions:
-          type: Link
+     - type: FeaturedItem
+      title: CRYPTO CURRENCY CONVERTER
+      tagline: ''
+      subtitle: ''
+      text: ''
+      image:
+        type: ImageBlock
+        url: /images/pexels-rdne-8369767.jpg
+        altText: Placeholder text
+        styles:
+          self:
+            borderRadius: x-large
+      actions:
+        - type: Link
           label: Launch Tool
           url: /pages/crypto-converter.html
           style: primary
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col-reverse
+      colors: bg-light-fg-dark
+      styles:
+        self:
+          padding:
+            - pt-8
+            - pl-8
+            - pb-8
+            - pr-8
+          borderRadius: x-large
+          flexDirection: col-reverse
       - type: FeaturedItem
         title: MINING CALCULATOR
         tagline: ''
