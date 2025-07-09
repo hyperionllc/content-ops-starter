@@ -15,7 +15,7 @@ export default function BitcoinToDeFi() {
         <h1>The Evolution of Cryptocurrency: From Bitcoin to DeFi</h1>
         <p>Cryptocurrency has evolved from an obscure concept into a transformative global financial movement...</p>
 
-        {The Evolution of Cryptocurrency: From Bitcoin to DeFi}
+        The Evolution of Cryptocurrency: From Bitcoin to DeFi
 
 		Cryptocurrency has evolved from an obscure concept into a transformative global financial movement. Bitcoin, launched in 	2009 by the pseudonymous Satoshi Nakamoto, introduced a decentralized form of money that exists independently of governments and 	banks. Originally viewed as "digital gold," Bitcoin pioneered the blockchain ledger, offering transparency and immutability.
 
