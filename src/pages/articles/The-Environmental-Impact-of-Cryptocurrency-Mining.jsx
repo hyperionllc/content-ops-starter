@@ -15,7 +15,7 @@ export default function EnvironmentalImpact() {
         <h1>The Environmental Impact of Cryptocurrency Mining</h1>
         <p>Cryptocurrency mining, particularly Bitcoin's PoW model, has faced criticism for its...</p>
 
-        {The Environmental Impact of Cryptocurrency Mining
+        {The Environmental Impact of Cryptocurrency Mining}
 
 		Cryptocurrency mining, particularly Bitcoin's PoW model, has faced criticism for its energy consumption. Mining farms, 	often located near cheap energy sources, run high-powered computers 24/7. Studies estimate that Bitcoin's annual energy use rivals 	that of small nations.
 
