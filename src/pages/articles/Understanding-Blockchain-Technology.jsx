@@ -15,7 +15,7 @@ export default function BitcoinToDeFi() {
         <h1>Understanding Blockchain Technology: The Backbone of Crypto</h1>
         <p>Blockchain is the foundational technology behind cryptocurrencies. At its core, a blockchain is...</p>
 
-        {Understanding Blockchain Technology: The Backbone of Crypto}
+        Understanding Blockchain Technology: The Backbone of Crypto
 
 		Blockchain is the foundational technology behind cryptocurrencies. At its core, a blockchain is a distributed ledger 	maintained by a network of computers, where every transaction is recorded and immutable.
 
