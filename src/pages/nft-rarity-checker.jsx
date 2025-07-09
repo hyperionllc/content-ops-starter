@@ -105,6 +105,10 @@ export default function NFTRarityChecker() {
             ➕ Add Another Trait
           </button>
 
+          <hr className="my-4 border-light" />
+
+          <h5 className="text-center mb-3">Ready? Check Your NFT's Rarity:</h5>
+          
           <button className="btn btn-primary w-100 mt-4" onClick={calculateRarity}>
             Calculate Rarity
           </button>
