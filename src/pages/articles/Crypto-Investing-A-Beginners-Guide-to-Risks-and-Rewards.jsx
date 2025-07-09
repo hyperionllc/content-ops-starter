@@ -15,7 +15,7 @@ export default function CryptoInvesting() {
         <h1>Crypto Investing: A Beginner's Guide to Risks and Rewards</h1>
         <p>Investing in cryptocurrency can be both lucrative and risky. Beginners should start with...</p>
 
-        {Crypto Investing: A Beginner's Guide to Risks and Rewards
+        {Crypto Investing: A Beginner's Guide to Risks and Rewards}
 
 		Investing in cryptocurrency can be both lucrative and risky. Beginners should start with secure wallets (hardware wallets 	like Ledger or software wallets like MetaMask) and reputable exchanges (Coinbase, Binance).
 
