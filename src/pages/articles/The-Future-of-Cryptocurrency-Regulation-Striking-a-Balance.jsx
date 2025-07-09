@@ -15,7 +15,7 @@ export default function CryptoRegulation() {
         <h1>The Future of Cryptocurrency Regulation: Striking a Balance</h1>
         <p>Governments worldwide are grappling with how to regulate crypto without stifling...</p>
 
-        {The Future of Cryptocurrency Regulation: Striking a Balance
+        {The Future of Cryptocurrency Regulation: Striking a Balance}
 
 		Governments worldwide are grappling with how to regulate crypto without stifling innovation. In the U.S., the SEC has 	cracked down on unregistered securities, while the EU's Markets in Crypto-Assets (MiCA) framework aims to harmonize regulations 	across member states.
 
