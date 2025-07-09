@@ -41,7 +41,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions:
+        - actions:
           type: Link
           label: Launch Tool
           url: /pages/crypto-converter.html
