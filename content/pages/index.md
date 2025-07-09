@@ -44,7 +44,7 @@ sections:
         actions:
           - type: Link
             label: Launch Tool
-            url: /crypto-converter
+            url: /content/pages/crypto-converter.mdx
             style: primary
         colors: bg-light-fg-dark
         styles:
