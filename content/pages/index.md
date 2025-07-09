@@ -40,7 +40,7 @@ sections:
           altText: Placeholder text
           styles:
             self:
-              borderRadius: x-large
+              borderRadius: medium
         - actions:
           type: Link
           label: Launch Tool
