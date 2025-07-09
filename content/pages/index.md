@@ -179,7 +179,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: What is cryptocurrency?
+        title: ''
         tagline: ''
         subtitle: ''
         text: |
