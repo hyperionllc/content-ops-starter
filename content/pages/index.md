@@ -156,7 +156,7 @@ sections:
             flexDirection: col-reverse
 
   - type: FeaturedItemsSection
-    title: "📚 Learn About Cryptocurrency"
+    #title: "📚 Learn About Cryptocurrency"
     subtitle: "In-depth guides and insights"
     items:
       - type: FeaturedItem
