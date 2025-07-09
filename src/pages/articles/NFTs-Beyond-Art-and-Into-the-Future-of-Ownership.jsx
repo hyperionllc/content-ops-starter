@@ -15,7 +15,7 @@ export default function NFTs() {
         <h1>NFTs: Beyond Art and Into the Future of Ownership</h1>
         <p>Non-Fungible Tokens (NFTs) are unique digital assets secured on a blockchain...</p>
 
-        {NFTs: Beyond Art and Into the Future of Ownership
+        {NFTs: Beyond Art and Into the Future of Ownership}
 
 		Non-Fungible Tokens (NFTs) are unique digital assets secured on a blockchain, most commonly Ethereum. They gained fame in 	the art world, where creators like Beeple sold digital art for millions. Platforms like OpenSea and Rarible facilitated this boom.
 
