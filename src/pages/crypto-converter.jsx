@@ -1,7 +1,8 @@
 import Head from 'next/head';
 import { useState } from 'react';
+import Link from 'next/link';
 
-export default function CryptoConverterPage() {
+export default function CryptoConverter() {
   const [amount, setAmount] = useState('');
   const [fromCurrency, setFromCurrency] = useState('bitcoin');
   const [toCurrency, setToCurrency] = useState('ethereum');
@@ -58,6 +59,12 @@ export default function CryptoConverterPage() {
       </Head>
 
       <main className="bg-dark text-white p-4 min-vh-100">
+        <div className="mb-4">
+          <Link href="/" className="btn btn-secondary">
+            ← Back to Home
+          </Link>
+        </div>
+
         <div className="container">
           <h1 className="mb-4 text-center">Crypto Currency Converter</h1>
 
