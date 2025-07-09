@@ -1,7 +1,7 @@
 import Head from 'next/head';
 import { useState } from 'react';
 
-export default function CryptoConverter() {
+export default function CryptoConverterPage() {
   const [amount, setAmount] = useState('');
   const [fromCurrency, setFromCurrency] = useState('bitcoin');
   const [toCurrency, setToCurrency] = useState('ethereum');
