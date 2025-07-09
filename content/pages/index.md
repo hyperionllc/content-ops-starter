@@ -164,14 +164,6 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col-reverse
-    ### 📚 Learn About Crypto
-    - [The Evolution of Cryptocurrency](/articles/Evolution-of-Cryptocurrency)
-    - [Understanding Blockchain Technology](/articles/Understanding-Blockchain-Technology)
-    - [Beginner's Guide to Crypto Investing](/articles/Crypto-Investing-A-Beginners-Guide-to-Risks-and-Rewards)
-    - [NFTs and the Future of Ownership](/articles/NFTs-Beyond-Art-and-Into-the-Future-of-Ownership)
-    - [The Environmental Impact of Crypto Mining](/articles/The-Environmental-Impact-of-Cryptocurrency-Mining)
-    - [Crypto Regulation and the Future of Finance](/articles/The-Future-of-Cryptocurrency-Regulation-Striking-a-Balance)
-
     actions: []
     elementId: ''
     variant: three-col-grid
@@ -186,6 +178,91 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: FeaturedItemsSection
+    title: 📚 Learn About Cryptocurrency
+    subtitle: In-depth guides and insights
+    items:
+      - type: FeaturedItem
+        title: The Evolution of Cryptocurrency
+        tagline: From Bitcoin to DeFi
+        image:
+          type: ImageBlock
+          url: /images/articles/bitcoin-defi.jpg
+          altText: The Evolution of Cryptocurrency
+        actions:
+          - type: Link
+            label: Read Article
+            url: /articles/evolution-of-cryptocurrency
+            style: link
+      - type: FeaturedItem
+        title: Understanding Blockchain Technology
+        tagline: Powering the Decentralized Future
+        image:
+          type: ImageBlock
+          url: /images/articles/blockchain.jpg
+          altText: Blockchain Technology
+        actions:
+          - type: Link
+            label: Read Article
+            url: /articles/understanding-blockchain-technology
+            style: link
+      - type: FeaturedItem
+        title: Crypto Investing: Beginner's Guide
+        tagline: Risks, rewards & strategy
+        image:
+          type: ImageBlock
+          url: /images/articles/investing-guide.jpg
+          altText: Crypto Investing
+        actions:
+          - type: Link
+            label: Read Article
+            url: /articles/crypto-investing-beginners-guide
+            style: link
+      - type: FeaturedItem
+        title: NFTs: Beyond Art and Ownership
+        tagline: The evolving NFT landscape
+        image:
+          type: ImageBlock
+          url: /images/articles/nft-ownership.jpg
+          altText: NFTs Future of Ownership
+        actions:
+          - type: Link
+            label: Read Article
+            url: /articles/nfts-future-of-ownership
+            style: link
+      - type: FeaturedItem
+        title: The Environmental Impact of Mining
+        tagline: Sustainability in crypto
+        image:
+          type: ImageBlock
+          url: /images/articles/mining-impact.jpg
+          altText: Environmental Impact of Mining
+        actions:
+          - type: Link
+            label: Read Article
+            url: /articles/environmental-impact-of-mining
+            style: link
+      - type: FeaturedItem
+        title: The Future of Cryptocurrency Regulation
+        tagline: Striking a global balance
+        image:
+          type: ImageBlock
+          url: /images/articles/crypto-regulation.jpg
+          altText: Crypto Regulation
+        actions:
+          - type: Link
+            label: Read Article
+            url: /articles/future-of-crypto-regulation
+            style: link
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pb-16
+          - pl-16
+          - pr-16
+        justifyContent: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
