@@ -183,7 +183,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: |
-          Coming soon...
+          Evolution of Cryptocurrency
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
