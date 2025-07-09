@@ -164,13 +164,13 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col-reverse
-  ### 📚 Learn About Crypto
-  - [The Evolution of Cryptocurrency](/articles/Evolution-of-Cryptocurrency)
-  - [Understanding Blockchain Technology](/articles/Understanding-Blockchain-Technology)
-  - [Beginner's Guide to Crypto Investing](/articles/Crypto-Investing-A-Beginners-Guide-to-Risks-and-Rewards)
-  - [NFTs and the Future of Ownership](/articles/NFTs-Beyond-Art-and-Into-the-Future-of-Ownership)
-  - [The Environmental Impact of Crypto Mining](/articles/The-Environmental-Impact-of-Cryptocurrency-Mining)
-  - [Crypto Regulation and the Future of Finance](/articles/The-Future-of-Cryptocurrency-Regulation-Striking-a-Balance)
+    ### 📚 Learn About Crypto
+    - [The Evolution of Cryptocurrency](/articles/Evolution-of-Cryptocurrency)
+    - [Understanding Blockchain Technology](/articles/Understanding-Blockchain-Technology)
+    - [Beginner's Guide to Crypto Investing](/articles/Crypto-Investing-A-Beginners-Guide-to-Risks-and-Rewards)
+    - [NFTs and the Future of Ownership](/articles/NFTs-Beyond-Art-and-Into-the-Future-of-Ownership)
+    - [The Environmental Impact of Crypto Mining](/articles/The-Environmental-Impact-of-Cryptocurrency-Mining)
+    - [Crypto Regulation and the Future of Finance](/articles/The-Future-of-Cryptocurrency-Regulation-Striking-a-Balance)
 
     actions: []
     elementId: ''
