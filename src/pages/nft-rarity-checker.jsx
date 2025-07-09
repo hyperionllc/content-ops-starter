@@ -101,11 +101,11 @@ export default function NFTRarityChecker() {
             </div>
           ))}
 
-          <button className="btn btn-outline-light w-100 mb-3" onClick={addTraitField}>
+          <button className="btn btn-outline-light w-100 mb-4" onClick={addTraitField}>
             ➕ Add Another Trait
           </button>
 
-          <button className="btn btn-primary w-100 mb-3" onClick={calculateRarity}>
+          <button className="btn btn-primary w-100 mt-4" onClick={calculateRarity}>
             Calculate Rarity
           </button>
 
