@@ -149,7 +149,11 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Link
+            label: Launch Tool
+            url: /nft-rarity-checker
+            style: primary
         colors: bg-light-fg-dark
         styles:
           self:
