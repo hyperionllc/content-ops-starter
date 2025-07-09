@@ -40,7 +40,7 @@ sections:
           altText: Placeholder text
           styles:
             self:
-              borderRadius: medium
+              borderRadius: x-large
       - actions:
           type: Link
           label: Launch Tool
@@ -54,7 +54,7 @@ sections:
               - pl-8
               - pb-8
               - pr-8
-            borderRadius: medium
+            borderRadius: x-large
             flexDirection: col-reverse
       - type: FeaturedItem
         title: MINING CALCULATOR
