@@ -156,84 +156,84 @@ sections:
             flexDirection: col-reverse
 
   - type: FeaturedItemsSection
-    title: 📚 Learn About Cryptocurrency
-    subtitle: In-depth guides and insights
+    title: "📚 Learn About Cryptocurrency"
+    subtitle: "In-depth guides and insights"
     items:
       - type: FeaturedItem
-        title: The Evolution of Cryptocurrency
-        tagline: From Bitcoin to DeFi
+        title: "The Evolution of Cryptocurrency"
+        tagline: "From Bitcoin to DeFi"
         image:
           type: ImageBlock
           url: /images/articles/bitcoin-defi.jpg
-          altText: The Evolution of Cryptocurrency
+          altText: "The Evolution of Cryptocurrency"
         actions:
           - type: Link
-            label: Read Article
+            label: "Read Article"
             url: /articles/Evolution-of-Cryptocurrency
             style: link
 
       - type: FeaturedItem
-        title: Understanding Blockchain Technology
-        tagline: Powering the Decentralized Future
+        title: "Understanding Blockchain Technology"
+        tagline: "Powering the Decentralized Future"
         image:
           type: ImageBlock
           url: /images/articles/blockchain.jpg
-          altText: Blockchain Technology
+          altText: "Blockchain Technology"
         actions:
           - type: Link
-            label: Read Article
+            label: "Read Article"
             url: /articles/Understanding-Blockchain-Technology
             style: link
 
       - type: FeaturedItem
-        title: Crypto Investing: Beginner's Guide
-        tagline: Risks, rewards & strategy
+        title: "Crypto Investing: Beginner's Guide"
+        tagline: "Risks, rewards & strategy"
         image:
           type: ImageBlock
           url: /images/articles/investing-guide.jpg
-          altText: Crypto Investing
+          altText: "Crypto Investing"
         actions:
           - type: Link
-            label: Read Article
+            label: "Read Article"
             url: /articles/Crypto-Investing-A-Beginners-Guide-to-Risks-and-Rewards
             style: link
 
       - type: FeaturedItem
-        title: NFTs: Beyond Art and Ownership
-        tagline: The evolving NFT landscape
+        title: "NFTs: Beyond Art and Ownership"
+        tagline: "The evolving NFT landscape"
         image:
           type: ImageBlock
           url: /images/articles/nft-ownership.jpg
-          altText: NFTs Future of Ownership
+          altText: "NFTs Future of Ownership"
         actions:
           - type: Link
-            label: Read Article
+            label: "Read Article"
             url: /articles/NFTs-Beyond-Art-and-Into-the-Future-of-Ownership
             style: link
 
       - type: FeaturedItem
-        title: The Environmental Impact of Mining
-        tagline: Sustainability in crypto
+        title: "The Environmental Impact of Mining"
+        tagline: "Sustainability in crypto"
         image:
           type: ImageBlock
           url: /images/articles/mining-impact.jpg
-          altText: Environmental Impact of Mining
+          altText: "Environmental Impact of Mining"
         actions:
           - type: Link
-            label: Read Article
+            label: "Read Article"
             url: /articles/The-Environmental-Impact-of-Cryptocurrency-Mining
             style: link
 
       - type: FeaturedItem
-        title: The Future of Cryptocurrency Regulation
-        tagline: Striking a global balance
+        title: "The Future of Cryptocurrency Regulation"
+        tagline: "Striking a global balance"
         image:
           type: ImageBlock
           url: /images/articles/crypto-regulation.jpg
-          altText: Crypto Regulation
+          altText: "Crypto Regulation"
         actions:
           - type: Link
-            label: Read Article
+            label: "Read Article"
             url: /articles/The-Future-of-Cryptocurrency-Regulation-Striking-a-Balance
             style: link
     colors: bg-light-fg-dark
@@ -246,7 +246,7 @@ sections:
           - pr-16
         justifyContent: center
 
-  - title: Divider
+  - type: DividerSection
     colors: bg-light-fg-dark
     styles:
       self:
@@ -255,7 +255,6 @@ sections:
           - pl-7
           - pb-7
           - pr-7
-    type: DividerSection
 
 seo:
   metaTitle: Home - Quick Crypto Tools
