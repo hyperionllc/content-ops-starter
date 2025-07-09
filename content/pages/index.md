@@ -91,7 +91,11 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Link
+            label: Launch Tool
+            url: /defi-yield-calculator
+            style: primary
         colors: bg-light-fg-dark
         styles:
           self:
