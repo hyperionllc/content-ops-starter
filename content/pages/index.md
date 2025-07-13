@@ -43,7 +43,7 @@ sections:
           - type: Link
             label: Launch Tool
             url: /crypto-converter
-            style: primary
+            style: link
             styles:
               self:
                 textColor: text-blue-500
@@ -76,7 +76,7 @@ sections:
           - type: Link
             label: Launch Tool
             url: /crypto-mining-calculator
-            style: primary
+            style: link
             styles:
               self:
                 textColor: text-blue-500
@@ -109,7 +109,7 @@ sections:
           - type: Link
             label: Launch Tool
             url: /defi-yield-calculator
-            style: primary
+            style: link
             styles:
               self:
                 textColor: text-blue-500
@@ -142,7 +142,7 @@ sections:
           - type: Link
             label: Launch Tool
             url: /gas-fee-estimator
-            style: primary
+            style: link
             styles:
               self:
                 textColor: text-blue-500
@@ -175,7 +175,7 @@ sections:
           - type: Link
             label: Launch Tool
             url: /nft-rarity-checker
-            style: primary
+            style: link
             styles:
               self:
                 textColor: text-blue-500
