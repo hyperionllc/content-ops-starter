@@ -44,6 +44,9 @@ sections:
             label: Launch Tool
             url: /crypto-converter
             style: primary
+            styles:
+              self:
+                textColor: text-blue-500
         colors: bg-light-fg-dark
         styles:
           self:
@@ -74,6 +77,9 @@ sections:
             label: Launch Tool
             url: /crypto-mining-calculator
             style: primary
+            styles:
+              self:
+                textColor: text-blue-500
         colors: bg-light-fg-dark
         styles:
           self:
@@ -104,6 +110,9 @@ sections:
             label: Launch Tool
             url: /defi-yield-calculator
             style: primary
+            styles:
+              self:
+                textColor: text-blue-500
         colors: bg-light-fg-dark
         styles:
           self:
@@ -134,6 +143,9 @@ sections:
             label: Launch Tool
             url: /gas-fee-estimator
             style: primary
+            styles:
+              self:
+                textColor: text-blue-500
         colors: bg-light-fg-dark
         styles:
           self:
@@ -164,6 +176,9 @@ sections:
             label: Launch Tool
             url: /nft-rarity-checker
             style: primary
+            styles:
+              self:
+                textColor: text-blue-500
         colors: bg-light-fg-dark
         styles:
           self:
@@ -196,6 +211,9 @@ sections:
             label: "Read Article"
             url: /articles/Evolution-of-Cryptocurrency
             style: link
+            styles:
+              self:
+                textColor: text-blue-500
 
       - type: FeaturedItem
         title: "Understanding Blockchain Technology"
@@ -209,6 +227,9 @@ sections:
             label: "Read Article"
             url: /articles/Understanding-Blockchain-Technology
             style: link
+            styles:
+              self:
+                textColor: text-blue-500
 
       - type: FeaturedItem
         title: "Crypto Investing: Beginner's Guide"
@@ -222,6 +243,9 @@ sections:
             label: "Read Article"
             url: /articles/Crypto-Investing-A-Beginners-Guide-to-Risks-and-Rewards
             style: link
+            styles:
+              self:
+                textColor: text-blue-500
 
       - type: FeaturedItem
         title: "NFTs: Beyond Art and Ownership"
@@ -235,6 +259,9 @@ sections:
             label: "Read Article"
             url: /articles/NFTs-Beyond-Art-and-Into-the-Future-of-Ownership
             style: link
+            styles:
+              self:
+                textColor: text-blue-500
 
       - type: FeaturedItem
         title: "The Environmental Impact of Mining"
@@ -248,6 +275,9 @@ sections:
             label: "Read Article"
             url: /articles/The-Environmental-Impact-of-Cryptocurrency-Mining
             style: link
+            styles:
+              self:
+                textColor: text-blue-500
 
       - type: FeaturedItem
         title: "The Future of Cryptocurrency Regulation"
@@ -261,6 +291,9 @@ sections:
             label: "Read Article"
             url: /articles/The-Future-of-Cryptocurrency-Regulation-Striking-a-Balance
             style: link
+            styles:
+              self:
+                textColor: text-blue-500
     colors: bg-light-fg-dark
     styles:
       self:
