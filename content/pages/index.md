@@ -164,7 +164,7 @@ sections:
         tagline: "From Bitcoin to DeFi"
         image:
           type: ImageBlock
-          url: /images/articles/bitcoin-defi.jpg
+          url: /images/pexels-jakubzerdzicki-30623341.jpg
           altText: "The Evolution of Cryptocurrency"
         actions:
           - type: Link
@@ -177,7 +177,7 @@ sections:
         tagline: "Powering the Decentralized Future"
         image:
           type: ImageBlock
-          url: /images/articles/blockchain.jpg
+          url: /images/pexels-rdne-8370752.jpg
           altText: "Blockchain Technology"
         actions:
           - type: Link
@@ -190,7 +190,7 @@ sections:
         tagline: "Risks, rewards & strategy"
         image:
           type: ImageBlock
-          url: /images/articles/investing-guide.jpg
+          url: /images/pexels-karolina-grabowska-5980866.jpg
           altText: "Crypto Investing"
         actions:
           - type: Link
@@ -203,7 +203,7 @@ sections:
         tagline: "The evolving NFT landscape"
         image:
           type: ImageBlock
-          url: /images/articles/nft-ownership.jpg
+          url: /images/pexels-rdne-8370438.jpg
           altText: "NFTs Future of Ownership"
         actions:
           - type: Link
@@ -216,7 +216,7 @@ sections:
         tagline: "Sustainability in crypto"
         image:
           type: ImageBlock
-          url: /images/articles/mining-impact.jpg
+          url: /images/pexels-rdne-8370763.jpg
           altText: "Environmental Impact of Mining"
         actions:
           - type: Link
@@ -229,7 +229,7 @@ sections:
         tagline: "Striking a global balance"
         image:
           type: ImageBlock
-          url: /images/articles/crypto-regulation.jpg
+          url: /images/pexels-leeloothefirst-8358032.jpg
           altText: "Crypto Regulation"
         actions:
           - type: Link
