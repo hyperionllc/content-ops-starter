@@ -186,8 +186,7 @@ sections:
             backgroundColor: bg-white
 
   - type: FeaturedItemsSection
-    #title: "📚 Learn About Cryptocurrency"
-    subtitle: "Featured Articles"
+    subtitle: Featured Articles
     items:
       - type: FeaturedItem
         title: "The Evolution of Cryptocurrency"
