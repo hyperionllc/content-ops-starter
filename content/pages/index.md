@@ -54,6 +54,11 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col-reverse
+            borderWidth: 2
+            borderStyle: solid
+            borderColor: border-neutral
+            boxShadow: shadow-lg
+            backgroundColor: bg-white
 
       - type: FeaturedItem
         title: MINING CALCULATOR
