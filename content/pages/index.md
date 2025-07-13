@@ -54,7 +54,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col-reverse
-            borderWidth: 2
+            borderWidth: 4
             borderStyle: solid
             borderColor: border-neutral
             boxShadow: shadow-lg
@@ -84,6 +84,11 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col-reverse
+            borderWidth: 4
+            borderStyle: solid
+            borderColor: border-neutral
+            boxShadow: shadow-lg
+            backgroundColor: bg-white
 
       - type: FeaturedItem
         title: DeFi YIELD CALCULATOR
@@ -109,6 +114,11 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col-reverse
+            borderWidth: 4
+            borderStyle: solid
+            borderColor: border-neutral
+            boxShadow: shadow-lg
+            backgroundColor: bg-white
 
       - type: FeaturedItem
         title: GAS FEE ESTIMATOR
@@ -134,6 +144,11 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col-reverse
+            borderWidth: 4
+            borderStyle: solid
+            borderColor: border-neutral
+            boxShadow: shadow-lg
+            backgroundColor: bg-white
 
       - type: FeaturedItem
         title: NFT RARITY CHECKER
@@ -159,6 +174,11 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col-reverse
+            borderWidth: 4
+            borderStyle: solid
+            borderColor: border-neutral
+            boxShadow: shadow-lg
+            backgroundColor: bg-white
 
   - type: FeaturedItemsSection
     #title: "📚 Learn About Cryptocurrency"
