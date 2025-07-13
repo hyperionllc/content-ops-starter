@@ -28,7 +28,7 @@ sections:
           - pr-16
 
   - type: FeaturedItemsSection
-    subtitle: FREE CRYPTO TOOLS - COMING SOON!
+    subtitle: FREE CRYPTO TOOLS
     items:
       - type: FeaturedItem
         title: CRYPTO CURRENCY CONVERTER
@@ -157,7 +157,7 @@ sections:
 
   - type: FeaturedItemsSection
     #title: "📚 Learn About Cryptocurrency"
-    subtitle: "In-depth guides and insights"
+    subtitle: "Featured Articles"
     items:
       - type: FeaturedItem
         title: "The Evolution of Cryptocurrency"
